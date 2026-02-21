@@ -1,4 +1,10 @@
-! ===== BLOQUEIO GERAL STREAMING ADS =====||amazon-adsystem.com^||aax.amazon-adsystem.com^||analytics.amazon.*^||fls-na.amazon.com^||advertising-api-eu.amazon.com^||advertising-api-fe.amazon.com^||advertising-api.amazon.com^
+! ===== BLOQUEIO GERAL STREAMING ADS =====
+
+||amazon-adsystem.com^||aax.amazon-adsystem.com^
+||analytics.amazon.*^||fls-na.amazon.com^
+||advertising-api-eu.amazon.com^
+||advertising-api-fe.amazon.com^
+||advertising-api.amazon.com^
 ||hbomaxcdn.com^$3p
 ||play.max.com/ads^
 ||max.com/ads^
