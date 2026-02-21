@@ -1,0 +1,39 @@
+! ===== BLOQUEIO GERAL STREAMING ADS =====||amazon-adsystem.com^||aax.amazon-adsystem.com^||analytics.amazon.*^||fls-na.amazon.com^||advertising-api-eu.amazon.com^||advertising-api-fe.amazon.com^||advertising-api.amazon.com^
+||hbomaxcdn.com^$3p
+||play.max.com/ads^
+||max.com/ads^
+||warnerbrosdiscovery.com/ads^
+
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+||securepubads.g.doubleclick.net^
+
+||imrworldwide.com^
+||scorecardresearch.com^
+||moatads.com^
+||branch.io^
+||appsflyer.com^
+||adjust.com^
+
+! ===== PRIME VIDEO UI MODALS =====
+
+amazon.##.DVWebNode-crossbenefit-modal-wrapper
+amazon.##.atvwebplayersdk-ad-ui
+amazon.##.rendererContainer
+amazon.##.ad-container
+
+! Evita travar tela após remover overlay
+amazon.*##html:style(overflow: auto !important;)
+
+! ===== MAX / HBO UI ELEMENTOS =====
+
+max.##.ad-container
+max.##.ads-container
+max.##.ssai-ad-container
+max.##.promo-ad-container
+max.*##.ad-overlay
+
+hbomax.##.ad-container
+hbomax.##.ad-overlay
