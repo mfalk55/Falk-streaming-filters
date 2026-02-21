@@ -1,5 +1,6 @@
 ! ===== BLOQUEIO GERAL STREAMING ADS =====
 
+
 ||amazon-adsystem.com^||aax.amazon-adsystem.com^
 ||analytics.amazon.*^||fls-na.amazon.com^
 ||advertising-api-eu.amazon.com^
