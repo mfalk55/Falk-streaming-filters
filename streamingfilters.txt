@@ -44,3 +44,7 @@ max.*##.ad-overlay
 
 hbomax.##.ad-container
 hbomax.##.ad-overlay
+
+gmss.use1.prd.api.discomax.com
+use1.prd.api.discomax.com
+
