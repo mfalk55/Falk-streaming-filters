@@ -1,6 +1,5 @@
 ! ===== BLOQUEIO GERAL STREAMING ADS =====
 
-
 ||amazon-adsystem.com^||aax.amazon-adsystem.com^
 ||analytics.amazon.*^||fls-na.amazon.com^
 ||advertising-api-eu.amazon.com^
@@ -23,6 +22,10 @@
 ||branch.io^
 ||appsflyer.com^
 ||adjust.com^
+
+amazon-adsystem.com
+fls-na.amazon.com
+advertising-api.amazon.com
 
 ! ===== PRIME VIDEO UI MODALS =====
 
@@ -47,4 +50,33 @@ hbomax.##.ad-overlay
 
 gmss.use1.prd.api.discomax.com
 use1.prd.api.discomax.com
+
+play.max.com/ads
+hbomaxcdn.com
+promo-ad-container
+ssai-ad-container
+
+! Paramount 
+ads.viacomcbs.com
+scorecardresearch.com
+branch.io
+
+! Netflix
+ads.netflix.com
+adnxs.com
+doubleclick.net
+googlesyndication.com
+
+! Disney+ / Hulu / ESPN+
+bam.nr-data.net
+disneyplus.com/ads
+hulu.com/ads
+espn.com/ads
+adobedtm.com
+
+! Peacock (NBCUniversal)
+ads.peacocktv.com
+conviva.com
+moatads.com
+
 
