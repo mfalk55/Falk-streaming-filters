@@ -28,6 +28,8 @@ amazon-adsystem.com
 fls-na.amazon.com
 advertising-api.amazon.com
 hbomax.com##.ad-container
+video-ads.max.com
+metrics.max.com
 
 ! ===== PRIME VIDEO UI MODALS =====
 
@@ -71,6 +73,7 @@ ads.netflix.com
 adnxs.com
 doubleclick.net
 googlesyndication.com
+googleadservices.com
 
 ! Disney+ / Hulu / ESPN+
 bam.nr-data.net
