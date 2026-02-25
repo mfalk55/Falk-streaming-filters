@@ -56,6 +56,9 @@ hbomaxcdn.com
 promo-ad-container
 ssai-ad-container
 
+ads.max.com
+*.akamaized.net
+
 ! Paramount 
 ads.viacomcbs.com
 scorecardresearch.com
