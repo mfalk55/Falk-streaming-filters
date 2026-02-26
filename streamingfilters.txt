@@ -28,7 +28,7 @@ amazon-adsystem.com
 fls-na.amazon.com
 advertising-api.amazon.com
 !hbomax.com##.ad-container
-!video-ads.max.com
+video-ads.max.com
 !metrics.max.com
 
 ! ===== PRIME VIDEO UI MODALS =====
