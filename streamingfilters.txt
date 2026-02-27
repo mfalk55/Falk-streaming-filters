@@ -87,4 +87,8 @@ ads.peacocktv.com
 conviva.com
 moatads.com
 
+! Pluto TV
+saa.pluto.tv
+silo-aka.plutotv.net
+
 
