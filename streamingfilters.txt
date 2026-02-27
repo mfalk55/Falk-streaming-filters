@@ -25,6 +25,8 @@
 ||adjust.com^
 
 amazon-adsystem.com
+aax.amazon-adsystem.com
+fls-na.amazon-adsystem.com
 fls-na.amazon.com
 advertising-api.amazon.com
 !hbomax.com##.ad-container
@@ -116,12 +118,45 @@ cdn.tt.omtrdc.net
 omtrdc.net
 2o7.net
 cws.conviva.com
+pings.convova.com
 pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 doubleclick.net
 
 
+! The Trade Desk (publicidade programática OTT)
+adsrvr.org
+match.adsrvr.org
 
+! Plataformas programáticas (muito comuns em streams)
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+
+! Magnite / SpotX (extremamente comum em TV gratuita)
+! A Pluto TV (Paramount) frequentemente usa exchanges desse tipo:
+spotx.tv
+spotxchange.com
+search.spotxchange.com
+adserver.spotx.tv
+
+! FreeWheel (muito usado em TV e broadcasters)
+! Sistema profissional de anúncios para TV conectada:
+ad.doubleclick.net
+adswizz.com
+freewheel.tv
+cdn.freewheel.tv
+
+! Xandr (antiga AppNexus — Microsoft) Muito presente em smart TVs:
+ib.adnxs.com
+secure.adnxs.com
+adnxs-simple.com
+
+! Nielsen / medição de audiência televisiva
+imrworldwide.com
+secure-imrworldwide.com
 
 
 
