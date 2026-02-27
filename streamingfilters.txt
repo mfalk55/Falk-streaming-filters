@@ -33,6 +33,8 @@ advertising-api.amazon.com
 video-ads.max.com
 metrics.max.com
 
+device-metrics-us.amazon.com
+
 ! ===== PRIME VIDEO UI MODALS =====
 
 amazon.##.DVWebNode-crossbenefit-modal-wrapper
@@ -163,5 +165,6 @@ adnxs-simple.com
 imrworldwide.com
 secure-imrworldwide.com
 
-
+app-measurement.com
+firebaseinstallations.googleapis.com
 
