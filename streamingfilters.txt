@@ -65,6 +65,11 @@ ssai-ad-container
 ads.max.com
 *.akamaized.net
 
+vod-akc-us-east-1.media.h264.io
+manifest.prod.boltdns.net
+edge.api.brightcove.com
+metrics.brightcove.com
+
 ! Paramount 
 ads.viacomcbs.com
 scorecardresearch.com
