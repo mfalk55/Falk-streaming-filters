@@ -102,10 +102,19 @@ dpm.demdex.net
 cm.everesttech.net
 fls-na.amazon-adsystem.com
 edge.adobedc.net
-
-
-
-
+edge.adobedc.com
+sstats.adobe.com
+metrics.adobe.com
+geo.adobe.com
+adobe-dns-1.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+aamapi.demdex.net
+fast.demdex.net
+ib.adnxs.com
+cdn.tt.omtrdc.net
+omtrdc.net
+2o7.net
 
 
 
