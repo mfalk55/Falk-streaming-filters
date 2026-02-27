@@ -115,6 +115,10 @@ ib.adnxs.com
 cdn.tt.omtrdc.net
 omtrdc.net
 2o7.net
+cws.conviva.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+doubleclick.net
 
 
 
