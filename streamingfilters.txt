@@ -91,4 +91,23 @@ moatads.com
 saa.pluto.tv
 silo-aka.plutotv.net
 
+! Adobe
+adobe.io
+adobedc.net
+demdex.net
+everesttech.net
+everestads.net
+ads.adobe.com
+dpm.demdex.net
+cm.everesttech.net
+fls-na.amazon-adsystem.com
+
+
+
+
+
+
+
+
+
 
