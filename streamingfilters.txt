@@ -216,4 +216,15 @@ adnxs.com
 ib.adnxs.com
 secure.adnxs.com
 
-
+! outros
+dai.google.com
+pubads.g.doubleclick.net
+redirector.gvt1.com
+imasdk.googleapis.com
+smartadserver.com
+sdk.smartadserver.com
+diff.smartadserver.com
+rtbhouse.com
+creativecdn.com
+adform.net
+track.adform.net
