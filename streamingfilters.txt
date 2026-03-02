@@ -74,7 +74,6 @@ edge.brightcove.com
 metrics.brightcove.com
 player.brightcove.net
 
-
 ! Paramount 
 ads.viacomcbs.com
 scorecardresearch.com
@@ -101,6 +100,7 @@ cws.conviva.com
 pings.conviva.com
 mmoatads.com
 sdk.iad-01.braze.com
+secure-imrworldwide.com
 
 ! Pluto TV
 saa.pluto.tv
@@ -136,11 +136,13 @@ pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 doubleclick.net
 
-
 ! The Trade Desk (publicidade programática OTT)
 adsrvr.org
 match.adsrvr.org
 insight.adsrvr.org
+delivery.vidible.tv
+ads.vidible.tv
+cdn.vidible.tv
 
 ! Plataformas programáticas (muito comuns em streams)
 pubads.g.doubleclick.net
@@ -180,6 +182,9 @@ ads.mercadolibre.com
 ads.mercadolivre.com
 ads.mercadolivre.com.br
 ads.mercadoplay.com
+adservice.mercadolibre.com
+events.mercadoplay.com
+metrics.mercadoplay.com
 advertising.amazon-adsystem.com
 aax.amazon-adsystem.com
 fls-na.amazon-adsystem.com
@@ -194,14 +199,21 @@ analytics.mercadolibre.com
 events.mercadolibre.com
 tracking.mercadolibre.com
 
-
-
 ! Google CTV endpoints
 imasdk.googleapis.com
 pagead2.googlesyndication.com
 googleads4.g.doubleclick.net
+imasdk.googleapis.com
+video-ad-stats.googlesyndication.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
 
-
-
+! Servidores usados para decisão dinâmica de anúncios (CTV)
+adsrvr.org
+match.adsrvr.org
+insight.adsrvr.org
+adnxs.com
+ib.adnxs.com
+secure.adnxs.com
 
 
