@@ -168,3 +168,16 @@ secure-imrworldwide.com
 app-measurement.com
 firebaseinstallations.googleapis.com
 
+! Mercado Livre
+ads.mercadolibre.com
+advertising.amazon-adsystem.com
+aax.amazon-adsystem.com
+fls-na.amazon-adsystem.com
+ib.adnxs.com
+securepubads.g.doubleclick.net
+pubads.g.doubleclick.net
+adsrvr.org
+spotx.tv
+spotxchange.com
+
+
