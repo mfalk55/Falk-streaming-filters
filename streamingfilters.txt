@@ -67,12 +67,12 @@ ssai-ad-container
 ads.max.com
 *.akamaized.net
 
-vod-akc-us-east-1.media.h264.io
-manifest.prod.boltdns.net
-edge.api.brightcove.com
-edge.brightcove.com
-metrics.brightcove.com
-player.brightcove.net
+!vod-akc-us-east-1.media.h264.io
+!manifest.prod.boltdns.net
+!edge.api.brightcove.com
+!edge.brightcove.com
+!metrics.brightcove.com
+!player.brightcove.net
 
 ! Paramount 
 ads.viacomcbs.com
