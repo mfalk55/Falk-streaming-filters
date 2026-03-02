@@ -170,6 +170,8 @@ firebaseinstallations.googleapis.com
 
 ! Mercado Livre
 ads.mercadolibre.com
+ads.mercadolivre.com
+ads.mercadolivre.com.br
 advertising.amazon-adsystem.com
 aax.amazon-adsystem.com
 fls-na.amazon-adsystem.com
