@@ -70,7 +70,10 @@ ads.max.com
 vod-akc-us-east-1.media.h264.io
 manifest.prod.boltdns.net
 edge.api.brightcove.com
+edge.brightcove.com
 metrics.brightcove.com
+player.brightcove.net
+
 
 ! Paramount 
 ads.viacomcbs.com
@@ -94,7 +97,10 @@ adobedtm.com
 ! Peacock (NBCUniversal)
 ads.peacocktv.com
 conviva.com
-moatads.com
+cws.conviva.com
+pings.conviva.com
+mmoatads.com
+sdk.iad-01.braze.com
 
 ! Pluto TV
 saa.pluto.tv
@@ -134,6 +140,7 @@ doubleclick.net
 ! The Trade Desk (publicidade programática OTT)
 adsrvr.org
 match.adsrvr.org
+insight.adsrvr.org
 
 ! Plataformas programáticas (muito comuns em streams)
 pubads.g.doubleclick.net
@@ -172,6 +179,7 @@ firebaseinstallations.googleapis.com
 ads.mercadolibre.com
 ads.mercadolivre.com
 ads.mercadolivre.com.br
+ads.mercadoplay.com
 advertising.amazon-adsystem.com
 aax.amazon-adsystem.com
 fls-na.amazon-adsystem.com
@@ -181,5 +189,19 @@ pubads.g.doubleclick.net
 adsrvr.org
 spotx.tv
 spotxchange.com
+
+analytics.mercadolibre.com
+events.mercadolibre.com
+tracking.mercadolibre.com
+
+
+
+! Google CTV endpoints
+imasdk.googleapis.com
+pagead2.googlesyndication.com
+googleads4.g.doubleclick.net
+
+
+
 
 
