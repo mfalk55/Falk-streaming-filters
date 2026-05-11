@@ -45,6 +45,21 @@ amazon.##.ad-container
 ! Evita travar tela após remover overlay
 amazon.*##html:style(overflow: auto !important;)
 
+
+# Novos endpoints de API do Max (Discovery/Warner)
+beam-svc.prd.api.max.com
+markers.prd.api.max.com
+telemetry.prd.api.max.com
+config.prd.api.max.com
+
+# Telemetria agressiva do FireOS
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+amaze-adsystem.com
+mads.amazon-adsystem.com
+
+
+
 ! ===== MAX / HBO UI ELEMENTOS =====
 
 max.##.ad-container
