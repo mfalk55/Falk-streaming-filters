@@ -261,7 +261,15 @@ video-ads.max.com
 metrics.max.com
 ads.max.com
 ads.warnermedia.com
-​events.prd.api.max.com
+ad.doubleclick.net
+​static.ads-twitter.com
+​googleads.g.doubleclick.net
+​pubads.g.doubleclick.net
+events.prd.api.max.com
+​exp.prd.api.max.com
+​pagead2.googlesyndication.com
+aax-us-east.amazon-adsystem.com
+c.amazon-adsystem.com
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
