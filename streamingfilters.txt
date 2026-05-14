@@ -247,6 +247,8 @@ track.adform.net
 
 
 # === NOVOS ENDEREÇOS MAX (MAIO 2026) ===
+
+# === HBO MAX ===
 beam-svc.prd.api.max.com
 markers.prd.api.max.com
 telemetry.prd.api.max.com
@@ -259,6 +261,7 @@ video-ads.max.com
 metrics.max.com
 ads.max.com
 ads.warnermedia.com
+​events.prd.api.max.com
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
