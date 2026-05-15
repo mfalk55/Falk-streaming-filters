@@ -313,6 +313,8 @@ pubads.g.doubleclick.net
 tv.nissan.com.br
 markers.prd.api.discomax.com
 beacon.prd.api.max.com
+ad-delivery.net
+
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
