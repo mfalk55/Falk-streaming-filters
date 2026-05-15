@@ -248,6 +248,13 @@ track.adform.net
 
 # === NOVOS ENDEREÇOS MAX (MAIO 2026) ===
 
+# === QRCODE ===
+ext-inv-test.clmbtech.com
+​hb-rtb.ads.yahoo.com
+​omjs.vli.ad
+​servingsys.com
+​sizmek.com
+
 # === HBO MAX ===
 beam-svc.prd.api.max.com
 markers.prd.api.max.com
