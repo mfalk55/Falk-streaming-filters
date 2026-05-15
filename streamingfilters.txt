@@ -295,10 +295,13 @@ aax-us-east.amazon-adsystem.com
 ​ad-delivery.net
 ads-light.prd.media.max.com
 ​v-ads-v2.prd.media.max.com
+​v-ads-v3.prd.media.max.com
 play.prd.api.max.com
 ​media-match.prd.api.max.com
 v-ads.prd.media.max.com
 s-v-prd.media.max.com
+ads-v2.prd.media.max.com
+
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
