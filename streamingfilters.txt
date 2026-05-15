@@ -354,7 +354,12 @@ v-ads-v8.prd.media.max.com
 v-ads-v9.prd.media.max.com
 v-ads-v10.prd.media.max.com
 v-ads-v11.prd.media.max.com
+v-ads-v12.prd.media.max.com
+v-ads-v13.prd.media.max.com
+v-ads-v14.prd.media.max.com
 discovery.demdex.net
+ads.omoda-global.com
+api.jaecoo.com
 
 
 # === AMAZON / FIRE TV ADS ===
