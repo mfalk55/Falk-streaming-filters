@@ -333,6 +333,7 @@ config.uplynk.com
 fwmrm.net
 7b43c.v.fwmrm.net
 ​29773.v.fwmrm.net
+v.fwmrm.net
 2mdn.net
 ads.prd.api.discomax.com
 ads-v-prd.max.com
@@ -371,7 +372,9 @@ tv.nissan.com.br
 ​*.uplynk.com
 ​*.v.fwmrm.net
 markers.prd.api.discomax.com
-
+events.prd.api.max.com
+telemetry.max.com
+telemetry.discomax.com
 
 
 # === AMAZON / FIRE TV ADS ===
