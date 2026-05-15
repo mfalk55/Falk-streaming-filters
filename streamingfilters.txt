@@ -311,6 +311,8 @@ pubads.g.doubleclick.net
 ​googleads.g.doubleclick.net
 ​redirector.gvt1.com
 tv.nissan.com.br
+markers.prd.api.discomax.com
+beacon.prd.api.max.com
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
