@@ -337,6 +337,12 @@ ads.prd.api.discomax.com
 omjs.vli.ad
 ​servingsys.com
 ​sizmek.com
+​ads-v1.prd.api.discomax.com
+​ads-v2.prd.api.discomax.com
+ads-v3.prd.api.discomax.com
+​ads-v4.prd.api.discomax.com
+​ads-v5.prd.api.discomax.com
+
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
