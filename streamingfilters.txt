@@ -296,6 +296,12 @@ aax-us-east.amazon-adsystem.com
 ads-light.prd.media.max.com
 ​v-ads-v2.prd.media.max.com
 ​v-ads-v3.prd.media.max.com
+v-ads-v4.prd.media.max.com
+v-ads-v5.prd.media.max.com
+v-ads-v6.prd.media.max.com
+v-ads-v7.prd.media.max.com
+v-ads-v8.prd.media.max.com
+v-ads-v9.prd.media.max.com
 play.prd.api.max.com
 ​media-match.prd.api.max.com
 v-ads.prd.media.max.com
@@ -303,8 +309,8 @@ s-v-prd.media.max.com
 ads-v2.prd.media.max.com
 pubads.g.doubleclick.net
 ​googleads.g.doubleclick.net
-​redirector.gvt1.com 
-
+​redirector.gvt1.com
+tv.nissan.com.br
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
