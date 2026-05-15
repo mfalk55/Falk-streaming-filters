@@ -314,7 +314,8 @@ tv.nissan.com.br
 markers.prd.api.discomax.com
 beacon.prd.api.max.com
 ad-delivery.net
-
+video-ad-stats.googlesyndication.com
+​imasdk.googleapis.com
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
