@@ -326,6 +326,7 @@ api.segment.io
 ​browser.sentry-cdn.com
 ​customer-telemetry.prd.api.max.com
 uplynk.com
+config.uplynk.com
 ​ads.uplynk.com
 ​content-ads.uplynk.com
 ​v-ads.uplynk.com
