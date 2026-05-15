@@ -375,6 +375,11 @@ markers.prd.api.discomax.com
 events.prd.api.max.com
 telemetry.max.com
 telemetry.discomax.com
+clbme.com
+doeunicef.org.br
+unicef.org.br
+unicef.org
+
 
 
 # === AMAZON / FIRE TV ADS ===
