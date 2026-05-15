@@ -326,10 +326,17 @@ api.segment.io
 ​browser.sentry-cdn.com
 ​customer-telemetry.prd.api.max.com
 uplynk.com
+​ads.uplynk.com
+​content-ads.uplynk.com
+​v-ads.uplynk.com
 fwmrm.net
+7b43c.v.fwmrm.net
+​29773.v.fwmrm.net
 2mdn.net
 ads.prd.api.discomax.com
-
+omjs.vli.ad
+​servingsys.com
+​sizmek.com
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
