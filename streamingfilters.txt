@@ -318,6 +318,15 @@ video-ad-stats.googlesyndication.com
 ​imasdk.googleapis.com
 pagead2.googlesyndication.com
 ​googleads.g.doubleclick.net
+ads-discovery.com
+​content-ads.uplynk.com
+v-ads.prd.api.discomax.com
+dve-test-ads.max.com
+api.segment.io
+​browser.sentry-cdn.com
+​customer-telemetry.prd.api.max.com
+
+
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
