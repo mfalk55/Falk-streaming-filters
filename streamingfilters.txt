@@ -301,6 +301,9 @@ play.prd.api.max.com
 v-ads.prd.media.max.com
 s-v-prd.media.max.com
 ads-v2.prd.media.max.com
+pubads.g.doubleclick.net
+​googleads.g.doubleclick.net
+​redirector.gvt1.com 
 
 
 # === AMAZON / FIRE TV ADS ===
