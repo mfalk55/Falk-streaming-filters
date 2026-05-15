@@ -287,6 +287,12 @@ v-ads-static.prd.media.max.com
 dai.google.com
 ads-v-prd.max.com
 ​amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+​mads.amazon-adsystem.com
+​s.amazon-adsystem.com
+​dpm.demdex.net
+​aax-fe-njt.amazon-adsystem.com
+​ad-delivery.net
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
