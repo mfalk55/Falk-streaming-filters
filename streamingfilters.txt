@@ -278,7 +278,8 @@ v-ads-static.prd.media.max.com
 ​amazon-adsystem.com
 ​doubleclick.net
 dai.google.com
-
+ads-v-prd.max.com
+​amazon-adsystem.com
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
