@@ -357,9 +357,20 @@ v-ads-v11.prd.media.max.com
 v-ads-v12.prd.media.max.com
 v-ads-v13.prd.media.max.com
 v-ads-v14.prd.media.max.com
+v-ads-v15.prd.media.max.com
+v-ads-v16.prd.media.max.com
+v-ads-v17.prd.media.max.com
+v-ads-v18.prd.media.max.com
+v-ads-v19.prd.media.max.com
 discovery.demdex.net
 ads.omoda-global.com
 api.jaecoo.com
+tv.nissan.com.br
+​*.fwmrm.net
+​*.uplynk.com
+​*.v.fwmrm.net
+markers.prd.api.discomax.com
+
 
 
 # === AMAZON / FIRE TV ADS ===
