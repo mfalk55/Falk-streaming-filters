@@ -270,6 +270,15 @@ events.prd.api.max.com
 ​pagead2.googlesyndication.com
 aax-us-east.amazon-adsystem.com
 c.amazon-adsystem.com
+dash.prd.api.max.com
+sdk.split.io
+v-ads-static.prd.media.max.com
+​v-ads-dynamic.prd.media.max.com
+​content-ads.prd.media.max.com
+​amazon-adsystem.com
+​doubleclick.net
+dai.google.com
+
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
