@@ -325,7 +325,10 @@ dve-test-ads.max.com
 api.segment.io
 ​browser.sentry-cdn.com
 ​customer-telemetry.prd.api.max.com
-
+uplynk.com
+fwmrm.net
+2mdn.net
+ads.prd.api.discomax.com
 
 
 # === AMAZON / FIRE TV ADS ===
