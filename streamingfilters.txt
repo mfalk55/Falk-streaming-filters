@@ -316,6 +316,8 @@ beacon.prd.api.max.com
 ad-delivery.net
 video-ad-stats.googlesyndication.com
 ​imasdk.googleapis.com
+pagead2.googlesyndication.com
+​googleads.g.doubleclick.net
 
 # === AMAZON / FIRE TV ADS ===
 amazon-adsystem.com
