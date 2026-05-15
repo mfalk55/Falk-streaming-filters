@@ -334,6 +334,7 @@ fwmrm.net
 ​29773.v.fwmrm.net
 2mdn.net
 ads.prd.api.discomax.com
+ads-v-prd.max.com
 omjs.vli.ad
 ​servingsys.com
 ​sizmek.com
@@ -342,6 +343,18 @@ omjs.vli.ad
 ads-v3.prd.api.discomax.com
 ​ads-v4.prd.api.discomax.com
 ​ads-v5.prd.api.discomax.com
+v-ads-v1.prd.media.max.com
+v-ads-v2.prd.media.max.com
+v-ads-v3.prd.media.max.com
+v-ads-v4.prd.media.max.com
+v-ads-v5.prd.media.max.com
+v-ads-v6.prd.media.max.com
+v-ads-v7.prd.media.max.com
+v-ads-v8.prd.media.max.com
+v-ads-v9.prd.media.max.com
+v-ads-v10.prd.media.max.com
+v-ads-v11.prd.media.max.com
+discovery.demdex.net
 
 
 # === AMAZON / FIRE TV ADS ===
