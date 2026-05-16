@@ -416,7 +416,8 @@ playback.prd.api.max.com
 expediagroup.com
 ​media.expediagroup.com
 ​ecom.expedia.com
-
+edge.max.com
+​edgesuite.net
 
 
 # === AMAZON / FIRE TV ADS ===
