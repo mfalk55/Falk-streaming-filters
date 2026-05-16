@@ -397,8 +397,16 @@ entitlement.prd.api.max.com
 token.prd.api.max.com
 ​auth.prd.api.max.com
 ​playback-auth.prd.api.max.com
-
-
+pitaco.bet.br
+api.pitaco.bet.br
+​static.pitaco.com.br
+lilly.com
+​lilly.com.br
+playback.prd.api.max.com
+​content.prd.api.max.com
+​manifest.prd.media.max.com
+edgefreetv.com
+​msecnd.net
 
 
 # === AMAZON / FIRE TV ADS ===
