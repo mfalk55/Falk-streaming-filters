@@ -407,6 +407,14 @@ playback.prd.api.max.com
 ​manifest.prd.media.max.com
 edgefreetv.com
 ​msecnd.net
+bradesco.com.br
+​banco.bradesco
+​contas.bradesco
+​hotsitesbradesco.com.br
+playback.prd.api.max.com
+​manifest.prd.media.max.com
+
+
 
 
 # === AMAZON / FIRE TV ADS ===
