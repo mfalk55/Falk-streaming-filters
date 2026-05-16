@@ -413,7 +413,9 @@ bradesco.com.br
 ​hotsitesbradesco.com.br
 playback.prd.api.max.com
 ​manifest.prd.media.max.com
-
+expediagroup.com
+​media.expediagroup.com
+​ecom.expedia.com
 
 
 
