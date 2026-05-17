@@ -2,7 +2,7 @@
 #  By Marcelo Falk (MAIO 2026) Brasil - Para uso com AdAway
 # =================================================================
 
-# === NATIVOS MAX & WARNER MEDIA ===
+# === NATIVOS MAX & WARNER MEDIA (EXPANDIDO ATÉ V30) ===
 ads.max.com
 ads-discovery.com
 ads-light.prd.media.max.com
@@ -69,6 +69,17 @@ v-ads-v16.prd.media.max.com
 v-ads-v17.prd.media.max.com
 v-ads-v18.prd.media.max.com
 v-ads-v19.prd.media.max.com
+v-ads-v20.prd.media.max.com
+v-ads-v21.prd.media.max.com
+v-ads-v22.prd.media.max.com
+v-ads-v23.prd.media.max.com
+v-ads-v24.prd.media.max.com
+v-ads-v25.prd.media.max.com
+v-ads-v26.prd.media.max.com
+v-ads-v27.prd.media.max.com
+v-ads-v28.prd.media.max.com
+v-ads-v29.prd.media.max.com
+v-ads-v30.prd.media.max.com
 video-ads.max.com
 warnerbrosdiscovery.com
 
@@ -97,6 +108,28 @@ mads.amazon-adsystem.com
 s.amazon-adsystem.com
 unagi.amazon.com
 unagi-na.amazon.com
+
+# === BLOQUEIO DE CONTINGÊNCIA DOH / DNS OVER HTTPS (ANTI-ESCAPE DO APP) ===
+dns.google
+dns.google.com
+cloudflare-dns.com
+1dot1dot1dot1.cloudflare-dns.com
+dns.quad9.net
+doh.cleanbrowsing.org
+doh.pub
+dot.pub
+
+# === CDNS REGIONAIS E CACHE DE OPERADORAS (CAMPANHAS LOCAIS BRASIL) ===
+akamaihd.net
+edgecastcdn.net
+edgesuite.net
+fastly.net
+llnwi.net
+claro.com.br/midia
+cdn.claro.com.br
+cache.claro.com.br
+vmod.vivoplay.com.br
+cdn.vivoplay.com.br
 
 # === PATROCÍNIOS & MARCAS DIRETAS (CAMPANHAS LOCAIS) ===
 banco.bradesco
@@ -175,13 +208,6 @@ ads.uplynk.com
 config.uplynk.com
 content-ads.uplynk.com
 v-ads.uplynk.com
-
-# === REDES DE BORDA & CDNS INTERMEDIÁRIAS (TRAFEGO DE MÍDIA) ===
-akamaihd.net
-edgecastcdn.net
-edgesuite.net
-fastly.net
-llnwi.net
 
 # === BIG DATA & INFRAESTRUTURA DE IDENTIDADE (CTV AUDIENCE) ===
 krux.com
