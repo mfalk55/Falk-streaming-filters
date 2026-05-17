@@ -1,5 +1,5 @@
 # =================================================================
-#  By Marcelo Falk (MAIO 2026) Brasil - Para uso com AdAway
+#  By Marcelo Falk (MAIO 2026) Brasil - Para uso com AdAway - V. 2.0.5
 # =================================================================
 
 # === NATIVOS MAX & WARNER MEDIA (EXPANDIDO ATÉ V30) ===
@@ -109,6 +109,19 @@ s.amazon-adsystem.com
 unagi.amazon.com
 unagi-na.amazon.com
 
+# === NATIVOS DISNEY+ / HULU / ESPN+ ===
+disneyplus.com
+bam.nr-data.net
+
+# === NATIVOS NETFLIX ADS ===
+ads.netflix.com
+ichnaea.netflix.com
+
+# === NATIVOS PLUTO TV (PARAMOUNT ADVERTISING) ===
+saa.pluto.tv
+silo-aka.plutotv.net
+ads.viacomcbs.com
+
 # === BLOQUEIO DE CONTINGÊNCIA DOH / DNS OVER HTTPS (ANTI-ESCAPE DO APP) ===
 dns.google
 dns.google.com
@@ -125,9 +138,7 @@ edgecastcdn.net
 edgesuite.net
 fastly.net
 llnwi.net
-claro.com.br/midia
-cdn.claro.com.br
-cache.claro.com.br
+claro.com.br
 vmod.vivoplay.com.br
 cdn.vivoplay.com.br
 
@@ -270,16 +281,6 @@ metrics.mercadoplay.com
 analytics.mercadolibre.com
 events.mercadolibre.com
 tracking.mercadolibre.com
-
-# === OUTROS STREAMINGS (DISNEY, NETFLIX, PLUTO) ===
-ads.netflix.com
-ads.viacomcbs.com
-bam.nr-data.net
-disneyplus.com
-espn.com
-hulu.com
-saa.pluto.tv
-silo-aka.plutotv.net
 
 # === TELEMETRIA, MÉTRICAS E RASTREAMENTO CRUCIAL ===
 adjust.com
