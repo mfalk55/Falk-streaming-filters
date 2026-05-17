@@ -1,5 +1,5 @@
 # =================================================================
-# By Marcelo Falk 17/05/26 Brasil - Para uso com AdAway - V.2.1.2
+# By Marcelo Falk 17/05/26 Brasil - Para uso com AdAway - V.2.2.0
 # =================================================================
 
 # === 1. AMAZON PRIME VIDEO & FIRE TV LAUNCHER BANNERS ===
@@ -164,11 +164,51 @@ saa.pluto.tv
 silo-aka.plutotv.net
 ads.viacomcbs.com
 
+# === 12. ODEON FILMES E SÉRIES (BTV NATIVO - RASTREADORES) ===
+umeng.com
+umeng.co
+alogs.umeng.com
+tracking.odeon.tv
+analytics.odeon.media
+
+# === 13. VIVO TV CANAIS (BTV INTEGRADO - ADS E COLETA) ===
+v.vtvcdn.com
+ads.vtvstatic.com
+log.vtvapp.com
+
 # === CONTROLADORES DE CAMPANHAS DO TRIVAGO ===
 trivago.com
 trivago.com.br
 api.trivago.com
 sec.trivago.com
+
+# === ENGENHARIA DE CONTENÇÃO BTV (ANTI-MINERADORES, BOTNETS E EXPLOITS CHINESES) ===
+coinhive.com
+authedmine.com
+coin-hive.com
+crypto-loot.com
+cryptoloot.pro
+miner.hosting
+minr.pw
+deepminer.com
+coinerra.com
+hashhive.com
+monerominer.rocks
+trminer.me
+webminerpool.com
+pool.minexmr.com
+pool.supportxmr.com
+nanopool.org
+f2pool.com
+ethermine.org
+nicehash.com
+stratum.su
+stratum.slushpool.com
+stratum.btc.top
+api.gsc.tabao.com
+update.tvboxtools.top
+log.tvbox.net
+sys.tvboxapi.com
 
 # === ANTI-ESCAPE: CONTINGÊNCIA DOH (DNS OVER HTTPS) ===
 dns.google
