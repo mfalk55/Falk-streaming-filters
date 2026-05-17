@@ -1,8 +1,38 @@
 # =================================================================
-#  By Marcelo Falk (MAIO 2026) Brasil - Para uso com AdAway - V. 2.0.5
+# By Marcelo Falk 17/05/26 Brasil - Para uso com AdAway - V.2.1.2
 # =================================================================
 
-# === NATIVOS MAX & WARNER MEDIA (EXPANDIDO ATÉ V30) ===
+# === 1. AMAZON PRIME VIDEO & FIRE TV LAUNCHER BANNERS ===
+aax.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
+aax-fe-njt.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+ad-emea.amazon.com
+ads-us.amazon.com
+advertising.amazon.com
+advertising.amazon-adsystem.com
+advertising-api.amazon.com
+advertising-api-eu.amazon.com
+advertising-api-fe.amazon.com
+amazon-adsystem.com
+amaze-adsystem.com
+c.amazon-adsystem.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+fls-na.amazon.com
+fls-na.amazon-adsystem.com
+fls-br.amazon.com
+mads.amazon.com
+mads.amazon-adsystem.com
+s.amazon-adsystem.com
+unagi.amazon.com
+unagi-na.amazon.com
+images-na.ssl-images-amazon.com
+m.media-amazon.com
+api.amazon.com
+
+# === 2. HBO MAX / WARNER MEDIA (EXPANDIDO V1 ATÉ V30) ===
 ads.max.com
 ads-discovery.com
 ads-light.prd.media.max.com
@@ -83,46 +113,64 @@ v-ads-v30.prd.media.max.com
 video-ads.max.com
 warnerbrosdiscovery.com
 
-# === INFRAESTRUTURA AMAZON & PRIME VIDEO ADS ===
-aax.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
-aax-fe.amazon-adsystem.com
-aax-fe-njt.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-ad-emea.amazon.com
-ads-us.amazon.com
-advertising.amazon.com
-advertising.amazon-adsystem.com
-advertising-api.amazon.com
-advertising-api-eu.amazon.com
-advertising-api-fe.amazon.com
-amazon-adsystem.com
-amaze-adsystem.com
-c.amazon-adsystem.com
-device-metrics-us.amazon.com
-device-metrics-us-2.amazon.com
-fls-na.amazon.com
-fls-na.amazon-adsystem.com
-mads.amazon.com
-mads.amazon-adsystem.com
-s.amazon-adsystem.com
-unagi.amazon.com
-unagi-na.amazon.com
-
-# === NATIVOS DISNEY+ / HULU / ESPN+ ===
+# === 3. DISNEY+ / HULU / ESPN+ ===
 disneyplus.com
 bam.nr-data.net
 
-# === NATIVOS NETFLIX ADS ===
+# === 4. NETFLIX ===
 ads.netflix.com
 ichnaea.netflix.com
 
-# === NATIVOS PLUTO TV (PARAMOUNT ADVERTISING) ===
+# === 5. PARAMOUNT+ ===
+saa.pluto.tv
+pubads.g.doubleclick.net
+v.fwmrm.net
+cws.conviva.com
+
+# === 6. APPLE TV+ ===
+play-edge.itunes.apple.com
+itunes.apple.com
+np-edge.itunes.apple.com
+
+# === 7. LOOKE (REFINADO PARA PRESERVAR OPERABILIDADE DO APP) ===
+api.looke.com.br
+telemetria.looke.com.br
+cloudfront.looke.com.br
+
+# === 8. MERCADO PLAY ===
+ads.mercadolibre.com
+ads.mercadolibre.com.br
+ads.mercadoplay.com
+adservice.mercadolibre.com
+events.mercadoplay.com
+metrics.mercadoplay.com
+analytics.mercadolibre.com
+events.mercadolibre.com
+tracking.mercadolibre.com
+
+# === 9. RUN:TIME ===
+runtime.tv
+api.runtime.tv
+ads.runtime.tv
+
+# === 10. PLEX ===
+plex.tv
+ads.plex.tv
+telemetry.plex.tv
+metrics.plex.tv
+
+# === 11. PLUTO TV ===
 saa.pluto.tv
 silo-aka.plutotv.net
 ads.viacomcbs.com
 
-# === BLOQUEIO DE CONTINGÊNCIA DOH / DNS OVER HTTPS (ANTI-ESCAPE DO APP) ===
+# === CONTROLADORES DE CAMPANHAS DO TRIVAGO ===
+trivago.com
+trivago.com.br
+api.trivago.com
+sec.trivago.com
+
+# === ANTI-ESCAPE: CONTINGÊNCIA DOH (DNS OVER HTTPS) ===
 dns.google
 dns.google.com
 cloudflare-dns.com
@@ -142,7 +190,7 @@ claro.com.br
 vmod.vivoplay.com.br
 cdn.vivoplay.com.br
 
-# === PATROCÍNIOS & MARCAS DIRETAS (CAMPANHAS LOCAIS) ===
+# === PATROCÍNIOS DIRETOS & MARCAS COMPRADORAS DE MÍDIA ===
 banco.bradesco
 bancobradesco.com.br
 bradesco.com.br
@@ -191,7 +239,6 @@ edgefreetv.com
 exponential.com
 flashtalking.com
 fwmrm.net
-v.fwmrm.net
 7b43c.v.fwmrm.net
 29773.v.fwmrm.net
 ib.adnxs.com
@@ -220,33 +267,12 @@ config.uplynk.com
 content-ads.uplynk.com
 v-ads.uplynk.com
 
-# === BIG DATA & INFRAESTRUTURA DE IDENTIDADE (CTV AUDIENCE) ===
+# === BIG DATA, IDENTIDADE E MARKETING TRACKING ===
 krux.com
 krxd.net
 liveramp.com
 neustar.biz
 rlcdn.com
-
-# === ECOSSISTEMA GOOGLE CTV ===
-adservice.google.com
-app-measurement.com
-dai.google.com
-doubleclick.net
-ad.doubleclick.net
-googleads.g.doubleclick.net
-googleads4.g.doubleclick.net
-googleadservices.com
-googlesyndication.com
-pagead2.googlesyndication.com
-securepubads.g.doubleclick.net
-pubads.g.doubleclick.net
-tpc.googlesyndication.com
-video-ad-stats.googlesyndication.com
-firebaseinstallations.googleapis.com
-imasdk.googleapis.com
-redirector.gvt1.com
-
-# === ADOBE MARKETING & AUDIÊNCIA ===
 adobe.io
 adobedc.net
 adobedtm.com
@@ -271,23 +297,30 @@ omtrdc.net
 cdn.tt.omtrdc.net
 2o7.net
 
-# === MERCADO LIVRE / MERCADO PLAY ===
-ads.mercadolibre.com
-ads.mercadolibre.com.br
-ads.mercadoplay.com
-adservice.mercadolibre.com
-events.mercadoplay.com
-metrics.mercadoplay.com
-analytics.mercadolibre.com
-events.mercadolibre.com
-tracking.mercadolibre.com
+# === ECOSSISTEMA GOOGLE CTV ADS ===
+adservice.google.com
+app-measurement.com
+dai.google.com
+doubleclick.net
+ad.doubleclick.net
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+googleadservices.com
+googlesyndication.com
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+pubads.g.doubleclick.net
+tpc.googlesyndication.com
+video-ad-stats.googlesyndication.com
+firebaseinstallations.googleapis.com
+imasdk.googleapis.com
+redirector.gvt1.com
 
-# === TELEMETRIA, MÉTRICAS E RASTREAMENTO CRUCIAL ===
+# === TELEMETRIA EM CTV E MÉTRICAS DE RASTREAMENTO CRUCIAL ===
 adjust.com
 appsflyer.com
 branch.io
 conviva.com
-cws.conviva.com
 pings.conviva.com
 imrworldwide.com
 secure-imrworldwide.com
