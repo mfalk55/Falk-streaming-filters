@@ -1,5 +1,5 @@
 # =================================================================
-# By Marcelo Falk 17/05/26 Brasil - Para uso com AdAway - V.2.2.0
+# By Marcelo Falk 18/05/26 Brasil - Para uso com AdAway - V.2.2.2
 # =================================================================
 
 # === 1. AMAZON PRIME VIDEO & FIRE TV LAUNCHER BANNERS ===
@@ -306,6 +306,21 @@ ads.uplynk.com
 config.uplynk.com
 content-ads.uplynk.com
 v-ads.uplynk.com
+tremorhub.com
+aniview.com
+adspirit.net
+adtech.de
+adtechus.com
+amobee.com
+bidswitch.net
+contextweb.com
+indexexchange.com
+gumgum.com
+lkqd.net
+pubnative.net
+rhythmone.com
+sonobi.com
+synacor.com
 
 # === BIG DATA, IDENTIDADE E MARKETING TRACKING ===
 krux.com
@@ -336,6 +351,10 @@ cm.everesttech.net
 omtrdc.net
 cdn.tt.omtrdc.net
 2o7.net
+liadm.com
+tapad.com
+drawbridge.com
+cardinalcommerce.com
 
 # === ECOSSISTEMA GOOGLE CTV ADS ===
 adservice.google.com
@@ -371,3 +390,8 @@ sdk.split.io
 api.segment.io
 browser.sentry-cdn.com
 sdk.iad-01.braze.com
+doubleverify.com
+dvtwat.com
+ias.com
+integralads.com
+iasds.com
