@@ -1,8 +1,9 @@
 # =================================================================
-# By Marcelo Falk 18/05/26 Brasil - Para uso com AdAway - V.2.2.2
+# By Marcelo Falk 23/05/26 Brasil - Para uso com AdAway - V.2.2.3
 # =================================================================
 
 # === 1. AMAZON PRIME VIDEO & FIRE TV LAUNCHER BANNERS ===
+amzdigitaldownloads.tt.omtrdc.net
 aax.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
@@ -214,7 +215,7 @@ sys.tvboxapi.com
 dns.google
 dns.google.com
 cloudflare-dns.com
-1dot1dot1dot1.cloudflare-dns.com
+1dot1dot1dot1.cloudflare-dns-com
 dns.quad9.net
 doh.cleanbrowsing.org
 doh.pub
